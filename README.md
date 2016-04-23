@@ -1,1 +1,3 @@
-# k8s-web-v2
+# k8s-web
+
+Jednoduchy web server, vraci v2 a mac adresu
